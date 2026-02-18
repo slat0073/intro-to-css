@@ -5,7 +5,12 @@ body {
     background-color: #7251B5;
 }
 
+
 h1, h2, h3 {
     margin-bottom: 0%;
 }
 
+
+#company-name {
+    font-size: 1.5rem;
+}
