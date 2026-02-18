@@ -14,3 +14,10 @@ h1, h2, h3 {
 #company-name {
     font-size: 1.5rem;
 }
+
+
+header and footer {
+    background-color: #000;
+    color: #DEC9E9;
+}
+
