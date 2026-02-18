@@ -27,3 +27,8 @@ footer {
 }
 
 
+.s {
+    max-width: 940px;
+    margin: 0;
+    padding: 2em;
+}
