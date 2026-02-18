@@ -16,13 +16,14 @@ h1, h2, h3 {
 }
 
 
-#header {
+header {
     background-color: #000;
     color: #DEC9E9;
 }
 
-#footer {
+footer {
     background-color: #000;
     color: #DEC9E9;
 }
+
 
